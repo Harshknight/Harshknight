@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Ranjan</h1>
 <h3 align="center">A dedicated Android Developer with hands-on experience in Machine Learning.</h3>
-img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5lMml2OTFmcG9ocjJ0OWtnenU4N2V1eHhoNDM0cWszNHUyemN2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif"
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5lMml2OTFmcG9ocjJ0OWtnenU4N2V1eHhoNDM0cWszNHUyemN2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshknight&label=Profile%20views&color=0e75b6&style=flat" alt="harshknight" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
